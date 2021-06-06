@@ -47,7 +47,7 @@
 
 
 ## 📊 My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurasad&show_icons=true&locale=en&layout=compact" alt="abdurasad" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurasad&" alt="abdurasad" /></p>
 
  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
