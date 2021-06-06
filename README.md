@@ -59,7 +59,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asad_xt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asad_xt" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdur-rahman-al-asad-85a73020b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdur-rahman-al-asad-85a73020b" height="30" width="40" /></a>
 <a href="https://fb.com/asad.zt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asad.zt" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/asadzt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="asadzt" height="30" width="40" /></a>
 </p>
