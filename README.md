@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/playlist/37i9dQZF1DWYcDQ1hSjOpY" alt=""  width="350" />](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY)
+[<img src="https://www.flaticon.com/free-icon/music-note_651717" alt=""  width="350" />](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY)
 
 
 ## 🚀 Languages and Tools:
