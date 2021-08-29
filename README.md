@@ -9,11 +9,11 @@
 - 🥅 2030 Goals: Contribute more to Open Source projects.
 -📫 To reach me Check out Abdur Rahman Al Asad’s profile on LinkedIn https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b
 
-- ⚡ Fun fact **I am an introvert❤️.**
+- ⚡ Fun fact **I am Batman🦇.**
 
 ### Spotify Playing 🎧
 
-[<img src="https://www.flaticon.com/free-icon/music_876817"  width="350" />](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY)
+[<img src="https://open.spotify.com/playlist/37i9dQZF1DWYcDQ1hSjOpY"  width="350" />](https://open.spotify.com/album/5NnGkLlJGRVav1xqXgcptY)
 
 
 ## 🚀 Languages and Tools:
