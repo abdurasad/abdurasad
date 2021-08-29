@@ -7,9 +7,7 @@
 ## 🙋‍♂️ About Me
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2030 Goals: Contribute more to Open Source projects.
-- 📫 How to reach me **bijoy3500@gmail.com**
-
-  📫 To reach me Check out Abdur Rahman Al Asad’s profile on LinkedIn https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b
+-📫 To reach me Check out Abdur Rahman Al Asad’s profile on LinkedIn https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b
 
 - ⚡ Fun fact **I am an introvert❤️.**
 
