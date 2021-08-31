@@ -5,6 +5,7 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/abdurasad)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=abdurasad)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 🙋‍♂️ About Me
