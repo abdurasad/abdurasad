@@ -10,7 +10,8 @@
 ## 🙋‍♂️ About Me
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2030 Goals: Contribute more to Open Source projects.
--📫 To reach me Check out Abdur Rahman Al Asad’s profile on LinkedIn https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b
+- 
+-📫 To reach me Check out Abdur Rahman Al Asad’s profile on LinkedIn [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdurasad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b/)  
 
 - ⚡ Fun fact **I am just woken up while the rest of you are still steeping..😉**
 
