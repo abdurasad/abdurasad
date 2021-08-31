@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asad</h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Bangladesh.</h3>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abdurasad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/watch?v=yHQ0yOWf-Qs)  
+
 
 ![Profile views](https://gpvc.arturio.dev/abdurasad)  
 
