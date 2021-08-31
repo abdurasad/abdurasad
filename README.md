@@ -17,6 +17,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtubemusic.svg' alt='youtubemusic' height='40'>](https://www.youtube.com/watch?v=5HW0Im1XHvE)  
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='youtube' height='40'>](https://www.youtube.com/watch?v=yHQ0yOWf-Qs)  
 
 ## 🚀 Languages and Tools:
 
