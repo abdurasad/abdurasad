@@ -48,7 +48,9 @@
 <br/>
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdurasad)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdurasad) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdurasad&show_icons=true)  
 
 ## 📊 My Github Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdurasad&" alt="abdurasad" /></p>
