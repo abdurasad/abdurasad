@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asad</h1>
 <h3 align="center">I'm a passionate Front-End Web Developer from Bangladesh.</h3>
-
+![Profile views](https://gpvc.arturio.dev/abdurasad)  
 
 ## 🙋‍♂️ About Me
 - 👯 I’m looking to collaborate with other developers.
