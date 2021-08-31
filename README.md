@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-<iframe width="60" height="30" src="https://www.youtube.com/embed/ZgKWJ3BH0b4?start=9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgKWJ3BH0b4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## 🚀 Languages and Tools:
