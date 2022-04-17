@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate with other developers.
 - 🎓 2030 Goals:**Contribute more to Open Source projects and build more websites.**
 - 📫 To reach me:**Check out Abdur Rahman Al Asad’s profile on LinkedIn** [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdur-rahman-al-asad-85a73020b/) 
-- ⚡ Fun fact:**I am just woken up while the rest of you are still steeping..😉**
+- ⚡ Fun fact:**I am just one who has woken up while the rest of you are still sleeping..😉**
 
 ### Favourite songs Playing 🎧
 
