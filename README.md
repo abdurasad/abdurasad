@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://cdn.dribbble.com/users/600557/screenshots/3625204/media/fcab62316b56f66ea4a4268fae3335a4.gif" height="175px"/></a>
 
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A passionate Front-End web developer from Bangladesh</h3>
